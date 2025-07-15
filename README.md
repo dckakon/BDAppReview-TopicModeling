@@ -4,13 +4,13 @@ Welcome to the official repository for **BD-AppReviews**, a dataset of user-gene
 
 ## 📌 Overview
 
-User reviews provide valuable insights into application performance, usability, and feature request. 
+User reviews provide valuable insights into application performance, usability, and feature requests. 
 
 
 
 ## 📂 Dataset Description
-- The **BD-AppReviews dataset** (3.9M+ reviews) \\
-- 📊 **Dataset on Kaggle**: [BD-AppReviews Dataset]([https://www.kaggle.com/datasets/your-username/bd-appreviews](https://www.kaggle.com/datasets/debobratachakraborty/bangladeshi-android-app-reviews/data))
+- The **BD-AppReviews dataset** (3.9M+ reviews) 
+- 📊 **Dataset on Kaggle**: [BD-AppReviews Dataset](https://www.kaggle.com/datasets/debobratachakraborty/bangladeshi-android-app-reviews/data)
 The dataset is structured as a CSV file with the following columns:
 
 | Field Name             | Description                                                        |
